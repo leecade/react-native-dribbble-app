@@ -6,12 +6,12 @@
     "start": "node_modules/react-native/packager/packager.sh"
   },
   "dependencies": {
-    "react-native": "^0.4.2",
-    "react-native-blur": "^0.4.2",
-    "react-native-htmlview": "^0.2.0",
-    "react-native-modal": "^0.3.7",
+    "react-native": "^0.36.1",
+    "react-native-blur": "^1.1.2",
+    "react-native-htmlview": "^0.5.0",
+    "react-native-modal": "^0.4.0",
     "react-native-parallax-view": "git://github.com/lelandrichardson/react-native-parallax-view",
-    "react-native-vector-icons": "^0.6.1",
+    "react-native-vector-icons": "^3.0.0",
     "react-timer-mixin": "^0.13.1"
   }
 }
